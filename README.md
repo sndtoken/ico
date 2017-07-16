@@ -13,13 +13,14 @@ solc --bin -o solcoutput SNDToken.sol
 
 ## Credentials
 
-Business issues [ico@sandcoin.io](ico@sandcoin.io)
+Business issues [ico@sandcoin.io](mailto:ico@sandcoin.io)
 
-Technical support [adastreamer@gmail.com](adastreamer@gmail.com)
+Technical support [adastreamer@gmail.com](mailto:adastreamer@gmail.com)
 
 Infrastructure support [swanager.com](http://swanager.com)
 
 Plugins / 3rd party tools:
 
 [https://github.com/TokenMarketNet/ico](https://github.com/TokenMarketNet/ico)
+
 [https://github.com/OpenZeppelin/zeppelin-solidity/](https://github.com/OpenZeppelin/zeppelin-solidity/)
