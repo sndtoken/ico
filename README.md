@@ -19,7 +19,7 @@ Technical support: [adastreamer@gmail.com](mailto:adastreamer@gmail.com) or [Tel
 
 Infrastructure support: [swanager.com](http://swanager.com)
 
-<b>Plugins / 3rd party tools:<b>
+<b>Plugins / 3rd party tools:</b>
 
 [https://github.com/TokenMarketNet/ico](https://github.com/TokenMarketNet/ico)
 
